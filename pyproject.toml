@@ -3,7 +3,7 @@ name = "pyget"
 packages = [
     {include = "get"}
 ]
-version = "0.1.0"
+version = "0.2.0"
 readme = "README.md"
 homepage = "https://github.com/shawwn/get"
 description = "Provides elisp-style `get` and `put` functions: https://www.gnu.org/software/emacs/manual/html_node/elisp/Symbol-Plists.html"
