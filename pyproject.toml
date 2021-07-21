@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "get"
+name = "pyget"
 version = "0.1.0"
 readme = "README.md"
 homepage = "https://github.com/shawwn/get"
